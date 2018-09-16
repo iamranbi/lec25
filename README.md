@@ -1,4 +1,4 @@
-# lec25
+# Flask Exercise: making guestbook app
 A guestbook app.
 
 1. View: templates for adding an entry and displaying the guestbook
